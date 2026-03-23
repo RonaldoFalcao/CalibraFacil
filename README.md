@@ -20,7 +20,7 @@ A ferramenta permite que estudantes, professores e profissionais realizem cálcu
 * 🎓 Apoio ao ensino de Química Analítica
 
 
-## 🧠 Funcionalidades
+## 🧠 O que o App faz? (Funcionalidades)
 
 * Inserção de dados experimentais (concentração × absorbância)
 * Geração automática da curva de calibração
